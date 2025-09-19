@@ -19,7 +19,7 @@ To run this project locally, follow these steps:
 
 ```bash
 # Clone the repository
-git clone https://github.com/Anuj579/surprise-site.git
+git clone https://github.com/theycallmeahmed/Apology
 
 # Navigate into the folder
 cd surprise-site
@@ -39,19 +39,15 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser to expl
 
 Follow me for more emotional surprise websites and creative dev content:
 
-- 📷 Instagram: [@anujbuilds](https://instagram.com/anujbuilds)
-- 🎬 YouTube: [@anujbuilds](https://youtube.com/@anujbuilds)
-- 🐦 Twitter: [@anujbuilds](https://twitter.com/anujbuilds)
-- 💼 LinkedIn: [Anuj Chaudhary](https://linkedin.com/in/anujchaudhary549)
+- 📷 Instagram: [@theycallmesheikhahmed](https://instagram.com/theycallmesheikhahmed)
+- 🎬 YouTube: [@theycallmesheikhahmed](https://youtube.com/@theycallmesheikhahmed)
+- 🐦 Twitter: [@iamsheikhmahmed](https://twitter.com/iamsheikhmahmed)
+- 💼 LinkedIn: [Mohammed Ahmed](https://linkedin.com/in/theycallmesheikhahmed)
 
 ---
 
 ## ⭐ Support
 
-If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/Anuj579)  
+If you found this project lovely, please consider giving it a ⭐ on [GitHub](https://github.com/theycallmeahmed)  
 Thank you for being here! 🫶  
-Made with emotions by **Anuj** – _@anujbuilds_
 
-✨ If you'd like to support my work directly, you can donate via UPI:  
-**anujbuilds.wallet@phonepe**  
-Even a small contribution helps me keep creating cute, emotional projects 💖
